@@ -1,3 +1,7 @@
 spring:
   application:
     name: greeting-feign
+# security:
+#   user:
+#     name: user
+#     password: 6d4152a6-5dfb-4762-be7a-d1f65f276009
